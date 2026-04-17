@@ -1,0 +1,6 @@
+{
+  "name": "IP Tracking & Management System",
+  "description": "An application to manage IP allocations, track sales, expenses, profits, and handle renewals with history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
